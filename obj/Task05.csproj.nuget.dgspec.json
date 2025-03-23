@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AMST5\\project\\Task05\\Task05.csproj": {}
+    "C:\\AMST5\\Project\\Task05\\Task05.csproj": {}
   },
   "projects": {
-    "C:\\AMST5\\project\\Task05\\Task05.csproj": {
+    "C:\\AMST5\\Project\\Task05\\Task05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AMST5\\project\\Task05\\Task05.csproj",
+        "projectUniqueName": "C:\\AMST5\\Project\\Task05\\Task05.csproj",
         "projectName": "Task05",
-        "projectPath": "C:\\AMST5\\project\\Task05\\Task05.csproj",
+        "projectPath": "C:\\AMST5\\Project\\Task05\\Task05.csproj",
         "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-        "outputPath": "C:\\AMST5\\project\\Task05\\obj\\",
+        "outputPath": "C:\\AMST5\\Project\\Task05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config"
